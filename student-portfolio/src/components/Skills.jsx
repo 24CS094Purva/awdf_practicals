@@ -1,6 +1,6 @@
 function Skills({ skills }) {
   return (
-    <section className="section skills">
+    <section className="section">
       {/* Skills are shown as badges so the layout stays modern and clean. */}
       <div className="card">
         <h2>Skills</h2>
